@@ -2,7 +2,7 @@
 Last update: 24 May 2026
 
 ## Section A - Company Information
-050Nodes is an officially registered company in The Netherlands.
+050nodes is an officially registered company in The Netherlands.
 * **Address**: Hereplein 4, 9711 GA, Groningen, the Netherlands
 * **Chamber of Commerce (Kamer van Koophandel)**: 42058202
 * **VAT Number (BTW-id)**: TBA
