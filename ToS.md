@@ -8,9 +8,8 @@ Last update: 24 May 2026
 * **VAT Number (BTW-id)**: TBA
 * **Contact Email**: support@050nodes.com
 
-
 ## Section B - Promotions & Refunds
 ### Refunds
-"Customers may request a refund within 7 days of their initial purchase. Refunds can be issued as 100% Store Credit, or returned to the original payment method with the non-refundable transaction fees of the payment gateway deducted from the total amount."
+Customers may request a refund within 7 days of their initial purchase. Refunds can be issued as 100% Store Credit, or returned to the original payment method with the non-refundable transaction fees of the payment gateway deducted from the total amount.
 ### The Opening Promotion
-"The opening promotion consists of 3 months of hosting for the price of 2 months. The discount is automatically applied to the first billing cycle as a one-time negative setup fee. Future renewals will bill at the standard quarterly rate."
+The opening promotion consists of 3 months of hosting for the price of 2 months. The discount is automatically applied to the first billing cycle as a one-time negative setup fee. Future renewals will bill at the standard quarterly rate.
