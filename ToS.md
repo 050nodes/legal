@@ -8,7 +8,11 @@ Last update: 25 May 2026
 * **VAT Number (BTW-id)**: TBA
 * **Contact Email**: support@050nodes.com
 
-## Section B - Promotions & Refunds
+## Section B - Promotions, Refunds, Up- or Downgrades & Store Credit
+### Up- or Downgrades
+Certain services can be upgraded or downgraded, if a server is upgraded the difference will be invoiced on a pro-rata basis. The same goes for downgrades, however, downgrades are subject to technical resource limits and will receive store credit on a pro-rata basis.
+### Store Credit
+Store credit holds no cash value and is therefore non-refundable, non-withdrawable and non-transferable. 
 ### Refunds
 Customers may request a refund within 7 days of their initial purchase. Refunds can be issued as 100% Store Credit, or returned to the original payment method with the non-refundable transaction fees of the payment gateway deducted from the total amount. **Once Store Credit has been issued it holds no cash value and is therefore non-refundable, non-withdrawable and non-transferable.**
 ### The Opening Promotion
