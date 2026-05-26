@@ -1,11 +1,11 @@
 # 050nodes Terms of Service
-Last update: 25 May 2026
+Last update: 26 May 2026
 
 ## Section A - Company Information
 050nodes is an officially registered company in The Netherlands.
 * **Address**: Hereplein 4, 9711 GA, Groningen, the Netherlands
 * **Chamber of Commerce (Kamer van Koophandel)**: 42058202
-* **VAT Number (BTW-id)**: TBA
+* **VAT Number (BTW-id)**: NL005462614B27
 * **Contact Email**: support@050nodes.com
 
 ## Section B - Promotions, Refunds, Up- or Downgrades & Store Credit
