@@ -1,5 +1,5 @@
 # 050nodes Terms of Service
-Last update: 26 May 2026
+Last update: 28 May 2026
 
 ## Section 1.0 - Company Information
 050nodes is an officially registered company in The Netherlands.
