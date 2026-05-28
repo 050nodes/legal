@@ -13,7 +13,7 @@ Last update: 28 May 2026
 - **Customer / You**: Any natural person (consumer) or legal entity entering into an agreement with 050nodes.
 - **Services**: All our services, including but not limited to: Web hosting, Minecraft server hosting and domain name registrations.
 
-## Section 2.0
+## Section 2
 
 ### Section 2.1 - Right of Withdrawal
 Due to the digital and immediate mature of our Services, you explicitly agree that the performance begins immediately upon succesful payment. Consequently, you wave your right of withdrawal ('herroepingsrecht') and all sales are final. Refunds are only granted at our sole discretion, or as explicitly stated under our refund policy from section 2.2, if applicable.
