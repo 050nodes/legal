@@ -8,26 +8,24 @@ Last update: 28 May 2026
 * **VAT Number (BTW-id)**: NL005462614B27
 * **Contact Email**: support@050nodes.com
 
-### Section 1.1 - Definitions
+## Section 1.1 - Definitions
 - **Provider / We / Us / 050nodes / Our**: 050nodes, the company described in Section 1.0.
 - **Customer / You**: Any natural person (consumer) or legal entity entering into an agreement with 050nodes.
 - **Services**: All our services, including but not limited to: Web hosting, Minecraft server hosting and domain name registrations.
 
-## Section 2
-
-### Section 2.1 - Right of Withdrawal
-Due to the digital and immediate mature of our Services, you explicitly agree that the performance begins immediately upon succesful payment. Consequently, you wave your right of withdrawal ('herroepingsrecht') and all sales are final. Refunds are only granted at our sole discretion, or as explicitly stated under our refund policy from section 2.2, if applicable.
-
-### Section 2.2 - Refunds
+## Section 2.0 - Refunds
 Customers may request a refund within 7 days of their initial purchase. Refunds can be issued as 100% Store Credit, or returned to the original payment method with the non-refundable transaction fees of the payment gateway deducted from the total amount. **Once Store Credit has been issued it holds no cash value and is therefore non-refundable, non-withdrawable and non-transferable.**
 
-### Section 2.3 - Up- or Downgrades
+## Section 2.1 - Right of Withdrawal
+Due to the digital and immediate nature of our Services, you explicitly agree that the performance begins immediately upon succesful payment. Consequently, you wave your right of withdrawal ('herroepingsrecht') and all sales are final. Refunds are only granted at our sole discretion, or as explicitly stated under our refund policy from section 2.0, if applicable.
+
+## Section 2.2 - Up- or Downgrades
 Certain services can be upgraded or downgraded, if a server is upgraded the difference will be invoiced on a pro-rata basis. The same goes for downgrades, however, downgrades are subject to technical resource limits and will receive store credit on a pro-rata basis.
 
-### Section 2.4 - Store Credit
+## Section 2.3 - Store Credit
 Store credit holds no cash value and is therefore non-refundable, non-withdrawable and non-transferable. 
 
-### Section 2.5 - Opening Promotion
+## Section 2.4 - Opening Promotion
 The opening promotion is a temporary offer valid from 24/05/2026 until 31/07/2026, and is strictly limited to first-time customers only. This offer can be claimed by applying the designated promotional code at checkout to receive 25% off on the first invoice, on select services only (e.g.: Minecraft hosting, Discord bot hosting) Future renewals will bill at the standard recurring rate. 050nodes reserves the right to cancel any orders that bypass these terms
 
 ## Section 3.0 - Fair Use Policy
