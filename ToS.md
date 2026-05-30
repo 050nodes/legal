@@ -1,5 +1,5 @@
 # 050nodes Terms of Service
-Last update: 28 May 2026
+Last update: 30 May 2026
 
 ## Section 1.0 - Company Information
 050nodes is an officially registered company in The Netherlands.
@@ -14,7 +14,9 @@ Last update: 28 May 2026
 - **Services**: All our services, including but not limited to: Web hosting, Minecraft server hosting and domain name registrations.
 
 ## Section 2.0 - Refunds
-Customers may request a refund within 7 days of their initial purchase. Refunds can be issued as 100% Store Credit, or returned to the original payment method. Once Store Credit has been issued it holds no cash value and is therefore non-refundable, non-withdrawable and non-transferable.
+Customers may request a refund within 7 days of their initial purchase. Refunds can be issued as 100% Store Credit, or returned to the original payment method. If a refund to the original payment method is not possible (e.g. giftcards) the refund will be given in Store Credit instead, alternatively, SEPA transfers can be done to bank accounts in the SEPA region (EU customers only).
+
+Once Store Credit has been issued it holds no cash value and is therefore non-refundable, non-withdrawable and non-transferable.
 
 ## Section 2.1 - Right of Withdrawal
 Due to the digital and immediate nature of our Services, you explicitly agree that the performance begins immediately upon successful payment. Consequently, you waive your right of withdrawal ('herroepingsrecht') and all sales are final. Refunds are only granted at our sole discretion, or as explicitly stated under our refund policy from section 2.0, if applicable.
